@@ -21,10 +21,3 @@
 2. 开始对`jd_comment.csv`中评论进行数据处理，处理后文件存入`processed_comment_data.csv`
 3. sentiment模块根据`sentiment.marshal.3`对评论进行情感评分，评分结果存入`result.csv`
 4. 评分结果可视化，生成文件`fig.png`
----
-* 词云轮廓图
-<img src="https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/jdicon.jpg" width=200 height=200/>
-* 商品评论词云
-<img src="https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/jd_ciyun.jpg" width=500 height=500/>
-* 情感分析结果可视化
-<img src="https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/fig.png" width=600 height=500/>
